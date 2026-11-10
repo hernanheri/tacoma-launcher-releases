@@ -1,0 +1,7 @@
+{
+ "versionCode": 3,
+ "versionName": "1.2",
+ "apk": "https://github.com/hernanheri/tacoma-launcher-releases/releases/download/v1.2/TacomaLauncher.apk",
+ "sha256": "a55c39c376599161acf988f29ef857b450ba9d6f2b96456ca044feb030c405a6",
+ "notes": "Arreglo de la música: ahora muestra la canción de más reproductores (Bluetooth, USB de fábrica). Diagnóstico de la música en Ajustes. Códigos de cliente para versiones especiales."
+}
